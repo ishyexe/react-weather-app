@@ -6,13 +6,13 @@ export default function App() {
     <div className="App">
       <h1>weather app </h1>
       <footer>
-        This project was created by ishy ♡ and is
+        this project was created by ishy ♡ and is open sourced on{" "}
         <a
           href="https://github.com/ishyexe/react-weather-app"
           target="_blank"
           rel="noreferrer"
         >
-          open sourced on github
+          github !
         </a>
       </footer>
     </div>
